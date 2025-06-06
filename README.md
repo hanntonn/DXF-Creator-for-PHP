@@ -1,6 +1,6 @@
-# DXF Creator for PHP
+# DXF multi-layout Creator for PHP
 
-A simple DXF creator for PHP.
+A simple DXF multi-layout creator for PHP.
 This code is the upgrade of [DXF-Writer](http://www.phpclasses.org/package/7954-PHP-Generate-CAD-files-in-the-AutoCAD-DXF-format.html).
 
 ## Examples
